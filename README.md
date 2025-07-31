@@ -62,4 +62,4 @@ Procesando: 16.No Tengo Tiempo.mp3
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia GNU GENERAL PUBLIC LICENSE
