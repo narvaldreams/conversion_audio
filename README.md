@@ -15,10 +15,15 @@ npm install   # o pip install -r requirements.txt según el lenguaje
 ## CONFIGURACIÓN
 
 SOURCE_DIR = "./musica_origen"       # Directorio donde están tus archivos de audio originales
+
 DEST_DIR = "./musica_destino"        # Directorio donde se guardarán los MP3 convertidos
+
 BITRATE = "320k"                  # Calidad del MP3 de salida (ej. "320k", "192k")
+
 SEPARATOR = " - "                 # Separador entre artista y canción en el nombre del archivo
+
 EXT = "mp3"                       # Extensión de formato de sonido, ahorita solo funciona con mp3 y flac
+
 DELETE_PROCESSED = True           # Eliminar archivos originales después de conversión exitosa
 
 ```bash
