@@ -3,8 +3,9 @@ Script para covertir archivos de audio mp3, flac, ogg o wma a mp3 o flac dejando
 ## Instalación
 
 ```bash
-git clone https://github.com/usuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
+git clone git@github.com:narvaldreams/conversion_audio.git
+cd conversion_audio
+
 # Instala las dependencias
 Instarlar python3, pydub, mutagen
 npm install   # o pip install -r requirements.txt según el lenguaje
